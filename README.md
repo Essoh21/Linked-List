@@ -1,2 +1,2 @@
 # Linked-List
-An example of linked list
+A linked list data structure
